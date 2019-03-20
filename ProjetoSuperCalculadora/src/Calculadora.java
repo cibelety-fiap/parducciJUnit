@@ -13,7 +13,7 @@ public class Calculadora {
 
 	// método subtrair
 	public int subtrair(int n1, int n2) {
-		resultado = n1 - n2;
+		resultado = n2 - n1;
 		return resultado;
 	}
 
@@ -25,7 +25,7 @@ public class Calculadora {
 
 	// método dividir
 	public int dividir(int n1, int n2) {
-		resultado = n1 / n2;
+		resultado = n2 / n1;
 		return resultado;
 	}
 
